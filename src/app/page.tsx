@@ -13,7 +13,7 @@ export default function Home() {
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1 className="text-4xl font-bold mb-8">Todo App</h1>
+      <h1 className="text-4xl font-bold mb-8">Todo AppXX</h1>
       <TodoForm addTodo={addTodo} />
       <TodoList todos={todos} />
     </main>
